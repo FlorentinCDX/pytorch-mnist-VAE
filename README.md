@@ -1,7 +1,6 @@
 # pytorch-mnist-VAE
 Variational AutoEncoder on the MNIST data set using the PyTorch
 
-
 ## Dependencies
 - PyTorch
 - torchvision
